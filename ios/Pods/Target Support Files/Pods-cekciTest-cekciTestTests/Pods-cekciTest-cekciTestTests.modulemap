@@ -1,0 +1,6 @@
+module Pods_cekciTest_cekciTestTests {
+  umbrella header "Pods-cekciTest-cekciTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
